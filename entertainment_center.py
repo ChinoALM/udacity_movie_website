@@ -37,7 +37,8 @@ top_gun = media.Movie("Top Gun",
                      "https://upload.wikimedia.org/wikipedia/en/4/46/Top_Gun_Movie.jpg",
                      "https://www.youtube.com/watch?v=ioWpe3hdFH0")
 
-movies = [avatar, batman_begins, blow, edward_scissorhands, jurassic_park, toy_story, the_sand_lot, the_saint, top_gun]
+movies = [avatar, batman_begins, blow, edward_scissorhands, jurassic_park, toy_story,
+          the_sand_lot, the_saint, top_gun]
 
 #opens website
 fresh_tomatoes.open_movies_pages(movies)
