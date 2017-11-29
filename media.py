@@ -1,10 +1,11 @@
+#media.py
 import webbrowser
 
-# Minimize code by using class
+# Using classes , minimize's repetitve codes
 class Movie():
 	"""This calss provides a way to store move related information"""
 	VALID_RATINGS = ["G", "PG", "PG-13", "R"]
-	"""When a list is constant , make the VARIABLE NAME IN ALL CAPS"""
+	# WHEN A LIST IS CONSTANT , MAKE THE VARIABLE NAME IN ALL CAPS
 
 	def __init__(self, movie_title, poster_image, trailer_youtube):
 		self.title = movie_title

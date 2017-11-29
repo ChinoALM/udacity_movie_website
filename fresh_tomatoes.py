@@ -9,7 +9,7 @@ main_page_head = '''
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>Anthony's Project 3</title>
+    <title>Anthony's Udacity Project 3</title>
     <!-- Bootstrap 3 -->
     <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap-theme.min.css">
@@ -105,7 +105,7 @@ main_page_content = '''
       <div class="navbar navbar-default navbar-fixed-top" role="navigation">
         <div class="container">
           <div class="navbar-header">
-            <a class="navbar-brand" href="#">Lucero's Movie Trailers Picks</a>
+            <a class="navbar-brand" href="#">Anthony's Favorite Movies: Click to view Youtube Trailer!</a>
           </div>
         </div>
       </div>
